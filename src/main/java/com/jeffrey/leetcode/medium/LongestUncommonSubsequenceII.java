@@ -1,4 +1,4 @@
-package com.jeffrey.leetcode.leetcode_solutions;
+package com.jeffrey.leetcode.medium;
 
 import java.util.Arrays;
 import java.util.HashSet;
