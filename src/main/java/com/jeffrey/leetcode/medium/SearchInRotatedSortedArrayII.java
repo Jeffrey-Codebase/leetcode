@@ -19,7 +19,7 @@ public class SearchInRotatedSortedArrayII {
 
 	private boolean helper(int[] nums, int s, int e, int target) {
 		// list all possible condition, however, we could summarize the conditions into
-		// fewer rules
+		// fewer rules. Reference : FindMinimumInRotatedSortedArrayII
 		if (s >= e)
 			return nums[s] == target;
 		int m = (s + e) / 2;
@@ -39,7 +39,7 @@ public class SearchInRotatedSortedArrayII {
 				else if (nums[s] > nums[m])
 					return helper(nums, s, m - 1, target);
 				else
-					return helper(nums, s, m - 1, target) || helper(nums, m + 1, e, target);
+					return helper(nums, s, m - 1, target) || helper(nums, m + 1, e, target); // worst case
 			}
 		} else {
 			if (nums[s] < nums[m]) {
@@ -55,7 +55,7 @@ public class SearchInRotatedSortedArrayII {
 				else if (nums[e] < nums[m])
 					return helper(nums, m + 1, e, target);
 				else
-					return helper(nums, s, m - 1, target) || helper(nums, m + 1, e, target);
+					return helper(nums, s, m - 1, target) || helper(nums, m + 1, e, target); // worst case
 			}
 		}
 	}
