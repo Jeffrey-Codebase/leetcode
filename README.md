@@ -27,6 +27,7 @@
 | 385. Mini Parser                                                    |
 | 396. Rotate Function                                                |
 | 475. Heaters                                                        |
+| 519. Random Flip Matrix                                             |
 | 522. Longest Uncommon Subsequence II                                | 
 | 659. Split Array into Consecutive Subsequences                      |
 | 687. Longest Univalue Path                                          |
@@ -51,7 +52,6 @@
 | 414. Third Maximum Number                                      |
 | 434. Number of Segments in a String                            |
 | 507. Perfect Number                                            |
-| 519. Random Flip Matrix                                        |
 | 605. Can Place Flowers                                         |
 | 671. Second Minimum Node In a Binary Tree                      |
 | 925. Long Pressed Name                                         |
