@@ -9,7 +9,7 @@ public class FindMinimumInRotatedSortedArrayII {
 	 * Time Complexity: O(N), N = the length of nums array. Even we implement the
 	 * code by the binary search idea, the worst case still be O(N)
 	 *
-	 * Space Complexity: O(1)
+	 * Space Complexity: O(logN)
 	 *
 	 */
 

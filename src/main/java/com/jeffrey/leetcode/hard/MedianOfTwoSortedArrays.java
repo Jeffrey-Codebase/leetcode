@@ -9,7 +9,7 @@ public class MedianOfTwoSortedArrays {
 	 * Time Complexity: O(log(N+M)), N = the length of A1 array, M = the length of
 	 * A2 array
 	 *
-	 * Space Complexity: O(1)
+	 * Space Complexity: O(log(N+M))
 	 *
 	 */
 
