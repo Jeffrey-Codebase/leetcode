@@ -10,7 +10,7 @@ public class LongestUnivaluePath {
 	 *
 	 * Time Complexity: O(N), N = the number of nodes in the tree
 	 *
-	 * Space Complexity: O(H), the height of the tree
+	 * Space Complexity: O(H), H = the height of the tree
 	 *
 	 */
 	int ans = 1;
