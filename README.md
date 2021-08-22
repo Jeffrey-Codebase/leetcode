@@ -10,9 +10,11 @@
 | 68. Text Justification                               |
 | 154. Find Minimum in Rotated Sorted Array II         |
 | 839. Similar String Groups                           |
+| 1125. Smallest Sufficient Team                       |
 | 1373. Maximum Sum BST in Binary Tree                 |
 | 1416. Restore The Array                              |
 | 1537. Get the Maximum Score                          |
+| 1912. Design Movie Rental System                     |
 
 ### MEDIUM
 
@@ -24,6 +26,7 @@
 | 81. Search in Rotated Sorted Array II                               |
 | 91. Decode Ways                                                     |
 | 98. Validate Binary Search Tree                                     |
+| 147. Insertion Sort List                                            |
 | 300. Longest Increasing Subsequence                                 |
 | 310. Minimum Height Trees                                           |
 | 385. Mini Parser                                                    |
@@ -34,7 +37,11 @@
 | 659. Split Array into Consecutive Subsequences                      |
 | 687. Longest Univalue Path                                          |
 | 743. Network Delay Time                                             |
+| 775. Global and Local Inversions                                    |
+| 809. Expressive Words                                               |
+| 831. Masking Personal Information                                   |
 | 901. Online Stock Span                                              |
+| 948. Bag of Tokens                                                  |
 | 949. Largest Time for Given Digits                                  |
 | 955. Delete Columns to Make Sorted II                               |  
 | 962. Maximum Width Ramp                                             |
@@ -42,15 +49,21 @@
 | 1156. Swap For Longest Repeated Character Substring                 |
 | 1162. As Far from Land as Possible                                  |
 | 1367. Linked List in Binary Tree                                    |
+| 1391. Check if There is a Valid Path in a Grid                      |
+| 1424. Diagonal Traverse II                                          |
 | 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum      |
 | 1513. Number of Substrings With Only 1s                             |
+| 1519. Number of Nodes in the Sub-Tree With the Same Label           |
+| 1541. Minimum Insertions to Balance a Parentheses String            |
 | 1574. Shortest Subarray to be Removed to Make Array Sorted          |
 | 1589. Maximum Sum Obtained of Any Permutation                       |
+| 1733. Minimum Number of People to Teach                             |
 | 1801. Number of Orders in the Backlog                               |
 | 1834. Single-Threaded CPU                                           |
 | 1855. Maximum Distance Between a Pair of Values                     |
 | 1881. Maximum Value after Insertion                                 |
 | 1888. Minimum Number of Flips to Make the Binary String Alternating |
+| 1906. Minimum Absolute Difference Queries                           |
 | 1926. Nearest Exit from Entrance in Maze                            |
 
 
