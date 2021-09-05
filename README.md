@@ -31,10 +31,12 @@
 | 310. Minimum Height Trees                                           |
 | 385. Mini Parser                                                    |
 | 396. Rotate Function                                                |
+| 464. Can I Win                                                      |
 | 475. Heaters                                                        |
 | 519. Random Flip Matrix                                             |
 | 522. Longest Uncommon Subsequence II                                | 
 | 659. Split Array into Consecutive Subsequences                      |
+| 665. Non-decreasing Array                                           |
 | 687. Longest Univalue Path                                          |
 | 743. Network Delay Time                                             |
 | 775. Global and Local Inversions                                    |
@@ -45,26 +47,46 @@
 | 949. Largest Time for Given Digits                                  |
 | 955. Delete Columns to Make Sorted II                               |  
 | 962. Maximum Width Ramp                                             |
+| 1014. Best Sightseeing Pair                                         |
 | 1093. Statistics from a Large Sample                                |
 | 1156. Swap For Longest Repeated Character Substring                 |
 | 1162. As Far from Land as Possible                                  |
+| 1191. K-Concatenation Maximum Sum                                   |
+| 1253. Reconstruct a 2-Row Binary Matrix                             |
+| 1339. Maximum Product of Splitted Binary Tree                       |
 | 1367. Linked List in Binary Tree                                    |
+| 1390. Four Divisor                                                  |
 | 1391. Check if There is a Valid Path in a Grid                      |
 | 1424. Diagonal Traverse II                                          |
 | 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum      |
 | 1513. Number of Substrings With Only 1s                             |
 | 1519. Number of Nodes in the Sub-Tree With the Same Label           |
 | 1541. Minimum Insertions to Balance a Parentheses String            |
+| 1562. Find Latest Group of Size M                                   |
 | 1574. Shortest Subarray to be Removed to Make Array Sorted          |
 | 1589. Maximum Sum Obtained of Any Permutation                       |
+| 1674. Minimum Moves to Make Array Complementary                     |
 | 1733. Minimum Number of People to Teach                             |
+| 1750. Minimum Length of String After Deleting Similar Ends          |
+| 1754. Largest Merge Of Two Strings                                  |
+| 1770. Maximum Score from Performing Multiplication Operations       |
+| 1785. Minimum Elements to Add to Form a Given Sum                   |
 | 1801. Number of Orders in the Backlog                               |
+| 1814. Count Nice Pairs in an Array                                  |
 | 1834. Single-Threaded CPU                                           |
+| 1849. Splitting a String Into Descending Consecutive Values         |
 | 1855. Maximum Distance Between a Pair of Values                     |
 | 1881. Maximum Value after Insertion                                 |
 | 1888. Minimum Number of Flips to Make the Binary String Alternating |
+| 1894. Find the Student that Will Replace the Chalk                  |
 | 1906. Minimum Absolute Difference Queries                           |
+| 1921. Eliminate Maximum Number of Monsters                          |
 | 1926. Nearest Exit from Entrance in Maze                            |
+| 1936. Add Minimum Number of Rungs                                   |
+| 1942. The Number of the Smallest Unoccupied Chair                   |
+| 1953. Maximum Number of Weeks for Which You Can Work                |
+| 1976. Number of Ways to Arrive at Destination                       |
+| 1981. Minimize the Difference Between Target and Chosen Elements    |
 
 
 ### EASY
@@ -73,6 +95,7 @@
 |----------------------------------------------------------------|
 | 7. Reverse Integer                                             |
 | 58. Length of Last Word                                        |
+| 121. Best Time to Buy and Sell Stock                           |
 | 414. Third Maximum Number                                      |
 | 434. Number of Segments in a String                            |
 | 507. Perfect Number                                            |
