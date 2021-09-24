@@ -29,12 +29,16 @@
 | 147. Insertion Sort List                                            |
 | 300. Longest Increasing Subsequence                                 |
 | 310. Minimum Height Trees                                           |
+| 357. Count Numbers with Unique Digits                               |
 | 385. Mini Parser                                                    |
 | 396. Rotate Function                                                |
+| 436. Find Right Interval                                            |
 | 464. Can I Win                                                      |
+| 467. Unique Substrings in Wraparound String                         |
 | 475. Heaters                                                        |
 | 519. Random Flip Matrix                                             |
 | 522. Longest Uncommon Subsequence II                                | 
+| 576. Out of Boundary Paths                                          |
 | 659. Split Array into Consecutive Subsequences                      |
 | 665. Non-decreasing Array                                           |
 | 687. Longest Univalue Path                                          |
@@ -49,6 +53,7 @@
 | 962. Maximum Width Ramp                                             |
 | 1014. Best Sightseeing Pair                                         |
 | 1093. Statistics from a Large Sample                                |
+| 1139. Largest 1-Bordered Square                                     |
 | 1156. Swap For Longest Repeated Character Substring                 |
 | 1162. As Far from Land as Possible                                  |
 | 1191. K-Concatenation Maximum Sum                                   |
@@ -59,8 +64,10 @@
 | 1391. Check if There is a Valid Path in a Grid                      |
 | 1424. Diagonal Traverse II                                          |
 | 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum      |
+| 1497. Check If Array Pairs Are Divisible by k                       |
 | 1513. Number of Substrings With Only 1s                             |
 | 1519. Number of Nodes in the Sub-Tree With the Same Label           |
+| 1524. Number of Sub-arrays With Odd Sum                             |
 | 1541. Minimum Insertions to Balance a Parentheses String            |
 | 1562. Find Latest Group of Size M                                   |
 | 1574. Shortest Subarray to be Removed to Make Array Sorted          |
@@ -73,6 +80,7 @@
 | 1785. Minimum Elements to Add to Form a Given Sum                   |
 | 1801. Number of Orders in the Backlog                               |
 | 1814. Count Nice Pairs in an Array                                  |
+| 1824. Minimum Sideway Jumps                                         |
 | 1834. Single-Threaded CPU                                           |
 | 1849. Splitting a String Into Descending Consecutive Values         |
 | 1855. Maximum Distance Between a Pair of Values                     |
