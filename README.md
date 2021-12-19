@@ -8,7 +8,12 @@
 | 41. First Missing Positive                           |
 | 44. Wildcard Matching                                |
 | 68. Text Justification                               |
+| 76. Minimum Window Substring                         |
+| 124. Binary Tree Maximum Path Sum                    |
 | 154. Find Minimum in Rotated Sorted Array II         |
+| 212. Word Search II                                  |
+| 295. Find Median from Data Stream                    |
+| 297. Serialize and Deserialize Binary Tree           |
 | 839. Similar String Groups                           |
 | 1125. Smallest Sufficient Team                       |
 | 1373. Maximum Sum BST in Binary Tree                 |
@@ -23,15 +28,38 @@
 | 8. String to Integer (atoi)                                         |
 | 15. 3Sum                                                            |
 | 29. Divide Two Integers                                             |
+| 49. Group Anagrams                                                  |
+| 55. Jump Game                                                       |
+| 56. Merge Intervals                                                 |
+| 57. Insert Interval                                                 |
+| 62. Unique Paths                                                    |
+| 73. Set Matrix Zeroes                                               |
+| 79. Word Search                                                     |
 | 81. Search in Rotated Sorted Array II                               |
 | 91. Decode Ways                                                     |
 | 98. Validate Binary Search Tree                                     |
+| 102. Binary Tree Level Order Traversal                              |
+| 105. Construct Binary Tree from Preorder and Inorder Traversal      |
+| 139. Word Break                                                     |
+| 143. Reorder List                                                   |
 | 147. Insertion Sort List                                            |
+| 152. Maximum Product Subarray                                       |
+| 198. House Robber                                                   |
+| 200. Number of Islands                                              |
+| 207. Course Schedule                                                |
+| 208. Implement Trie                                                 |
+| 211. Design Add and Search Words Data Structure                     |
+| 213. House Robber II                                                |
+| 230. Kth Smallest Element in a BST                                  |
 | 300. Longest Increasing Subsequence                                 |
 | 310. Minimum Height Trees                                           |
+| 322. Coin Change                                                    |
+| 347. Top K Frequent Elements                                        |
 | 357. Count Numbers with Unique Digits                               |
 | 385. Mini Parser                                                    |
 | 396. Rotate Function                                                |
+| 417. Pacific Atlantic Water Flow                                    |
+| 435. Non-overlapping Intervals                                      |
 | 436. Find Right Interval                                            |
 | 464. Can I Win                                                      |
 | 467. Unique Substrings in Wraparound String                         |
@@ -39,6 +67,7 @@
 | 519. Random Flip Matrix                                             |
 | 522. Longest Uncommon Subsequence II                                | 
 | 576. Out of Boundary Paths                                          |
+| 647. Palindromic Substrings                                         |
 | 659. Split Array into Consecutive Subsequences                      |
 | 665. Non-decreasing Array                                           |
 | 687. Longest Univalue Path                                          |
@@ -102,11 +131,20 @@
 | <div style="width:550px">Problem</div>                         |
 |----------------------------------------------------------------|
 | 7. Reverse Integer                                             |
+| 53. Maximum Subarray                                           |
 | 58. Length of Last Word                                        |
+| 70. Climbing Stairs                                            |
+| 100. Same Tree                                                 |
+| 104. Maximum Depth of Binary Tree                              |
 | 121. Best Time to Buy and Sell Stock                           |
+| 141. Linked List Cycle                                         |
+| 206. Reverse Linked List                                       |
+| 226. Invert Binary Tree                                        |
+| 242. Valid Anagram                                             |
 | 414. Third Maximum Number                                      |
 | 434. Number of Segments in a String                            |
 | 507. Perfect Number                                            |
+| 572. Subtree of Another Tree                                   |
 | 605. Can Place Flowers                                         |
 | 671. Second Minimum Node In a Binary Tree                      |
 | 925. Long Pressed Name                                         |
